@@ -1,0 +1,19 @@
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.exe.config
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.exe
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.pdb
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPI.dll
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPIUtils.dll
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPI.xml
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.exe
+C:\Users\me\Dropbox\учеба 4 курс\романов\рвип\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.pdb
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.exe.config
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.exe
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.pdb
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.exe
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.pdb
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPI.dll
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPIUtils.dll
+C:\Users\me\Dropbox\4course\Romanov\RVIP\Laboratornaya_4\Laboratornaya_4\bin\Debug\MPI.xml
+C:\Users\me\Dropbox\4course\Romanov\Laboratornaya_4\Laboratornaya_4\bin\Debug\Laboratornaya_4.exe.config
+C:\Users\me\Dropbox\4course\Romanov\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.exe
+C:\Users\me\Dropbox\4course\Romanov\Laboratornaya_4\Laboratornaya_4\obj\Debug\Laboratornaya_4.pdb
